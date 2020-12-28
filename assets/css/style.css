@@ -139,3 +139,14 @@ body {
 .pn-bg {
     color: #c8232c;
 }
+
+.brand-image img {
+    height: 150px;
+    width: 150px;
+}
+
+.brand-image {
+    align-content: center;
+    text-align: center;
+    align-self: center;
+}
