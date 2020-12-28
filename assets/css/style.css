@@ -1,0 +1,31 @@
+html,
+body {
+    height: 100%;
+    overflow-y: hidden;
+}
+
+.login-page {
+    height: 100%;
+    background-color: #535353;
+    justify-content: center;
+    padding: 25px 0;
+}
+
+.login-area {
+    background-color: white;
+    overflow-y: hidden;
+    min-height: 600px;
+    border-radius: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.image-area {
+    background-image: url('../image/bg-6.png');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center center;
+}
